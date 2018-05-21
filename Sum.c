@@ -1,6 +1,6 @@
-#include<stdio.h>
+ï»¿#include<stdio.h>
 
-int Sum(int begin,int end, int step)	//¼ÆËã×ÜºÍµÄº¯Êı,ÆğÊ¼Öµ,½áÊøÖµ,²½³¤
+int Sum(int begin,int end, int step)	//è®¡ç®—æ€»å’Œçš„å‡½æ•°,èµ·å§‹å€¼,ç»“æŸå€¼,æ­¥é•¿
 {
 	int sum=0;
 	int j;

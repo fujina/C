@@ -1,6 +1,6 @@
-#include<stdio.h>
+ï»¿#include<stdio.h>
 
-int Power(int u,int v)//ÇóuµÄv´Î·½
+int Power(int u,int v)//æ±‚uçš„væ¬¡æ–¹
 {
 int sum=u;
 int j;

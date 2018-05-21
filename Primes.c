@@ -1,7 +1,7 @@
-#include<stdio.h>
+ï»¿#include<stdio.h>
 //enum bool{false, true};   
 
-Primes(int i)		//ÅĞ¶ÏiÊÇ·ñËØÊı£¬Èç¹ûÊÇ·µ»Ø1£¬·ñÔò·µ»Ø0
+Primes(int i)		//åˆ¤æ–­iæ˜¯å¦ç´ æ•°ï¼Œå¦‚æœæ˜¯è¿”å›1ï¼Œå¦åˆ™è¿”å›0
 {
 int j;
 int p = 1;
